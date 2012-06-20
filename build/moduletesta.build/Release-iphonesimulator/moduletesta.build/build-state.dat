@@ -1,0 +1,115 @@
+Tmoduletesta
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Moduletesta_Prefix-cexoschsbmvosgednymujvvioyiy/Moduletesta_Prefix.pch.pth Moduletesta_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModule.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModuleAssets.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator/libModuletesta.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FC493070000000000353830
+t1338282759
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004FC493070000000000001534
+t1338282759
+s5428
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModule.m
+c000000004FE1222200000000000008AB
+t1340154402
+s2219
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModuleAssets.m
+c000000004FE122220000000000000110
+t1340154402
+s272
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Moduletesta_Prefix.pch
+c000000004FE12222000000000000003E
+t1340154402
+s62
+i<Foundation/Foundation.h>
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator/libModuletesta.a
+t2
+s0
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/Moduletesta.LinkFileList
+c000000004FE122780000000000000154
+t1340154488
+s340
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModule.o
+t2
+s0
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModuleAssets.o
+t2
+s0
+
+N/var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Moduletesta_Prefix-cexoschsbmvosgednymujvvioyiy/Moduletesta_Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesde5577f85991b541^f2b09cf85991b541^---0#1#0#--18"Check dependencies36"ADA50410-06ED-43D7-9114-8FED33B5DF4D-
+
+CCompileC build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModule.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361847289.946014
+e361847290.286962
+r1
+xCompileC
+xbuild/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModule.o
+x/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModule.m884bf2f95991b541^797649fa5991b541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModule.m0000000000000000^3905"CompileC build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModule.o Classes/ModuletestaModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-generated-files.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-own-target-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-all-target-headers.hmap -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-project-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator/include "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include" "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include/TiCore" -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/DerivedSources/i386 -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/DerivedSources -F/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Moduletesta_Prefix-cexoschsbmvosgednymujvvioyiy/Moduletesta_Prefix.pch -MMD -MT dependencies -MF /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModule.d --serialize-diagnostics /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModule.dia -c /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModule.m -o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModule.o36"53FC6AA8-EE83-4C4A-A35F-A4BB26451684-
+
+CCompileC build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModuleAssets.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361847289.946567
+e361847289.972166
+r1
+xCompileC
+xbuild/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModuleAssets.o
+x/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModuleAssets.m9068f2f95991b541^48dff8f95991b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModuleAssets.m0000000000000000^3941"CompileC build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModuleAssets.o Classes/ModuletestaModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-generated-files.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-own-target-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-all-target-headers.hmap -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-project-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator/include "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include" "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include/TiCore" -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/DerivedSources/i386 -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/DerivedSources -F/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Moduletesta_Prefix-cexoschsbmvosgednymujvvioyiy/Moduletesta_Prefix.pch -MMD -MT dependencies -MF /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModuleAssets.d --serialize-diagnostics /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModuleAssets.dia -c /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Classes/ModuletestaModuleAssets.m -o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/ModuletestaModuleAssets.o36"7AD936B0-110C-4BED-BCBB-E20CD271E607-
+
+CLibtool /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator/libModuletesta.a normal i386
+s361847290.294073
+e361847290.301263
+r1
+xLibtool
+x/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator/libModuletesta.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Libtool build/Release-iphonesimulator/libModuletesta.a normal i38618604bfa5991b541^fb224dfa5991b541^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1036"Libtool build/Release-iphonesimulator/libModuletesta.a normal i386    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator -filelist /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Objects-normal/i386/Moduletesta.LinkFileList -ObjC -framework Foundation -o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator/libModuletesta.a36"7587D390-8D90-4DF9-8014-28721CC4B6C6-
+
+CProcessPCH /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Moduletesta_Prefix-cexoschsbmvosgednymujvvioyiy/Moduletesta_Prefix.pch.pth Moduletesta_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361847288.618004
+e361847289.939482
+r1
+xProcessPCH
+x/var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Moduletesta_Prefix-cexoschsbmvosgednymujvvioyiy/Moduletesta_Prefix.pch.pth
+xModuletesta_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Moduletesta_Prefix.pch95639ef85991b541^2c81f0f95991b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Moduletesta_Prefix.pch0000000000000000^3795"ProcessPCH /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Moduletesta_Prefix-cexoschsbmvosgednymujvvioyiy/Moduletesta_Prefix.pch.pth Moduletesta_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-generated-files.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-own-target-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-all-target-headers.hmap -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/Moduletesta-project-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator/include "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include" "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include/TiCore" -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/DerivedSources/i386 -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/moduletesta.build/Release-iphonesimulator/moduletesta.build/DerivedSources -F/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Moduletesta_Prefix-cexoschsbmvosgednymujvvioyiy/Moduletesta_Prefix.pch.dia -c /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestA/Moduletesta_Prefix.pch -o /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Moduletesta_Prefix-cexoschsbmvosgednymujvvioyiy/Moduletesta_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Moduletesta_Prefix-cexoschsbmvosgednymujvvioyiy/Moduletesta_Prefix.pch.d36"E08E4E6E-18E0-4838-ABB2-767A9A64196A-
+
